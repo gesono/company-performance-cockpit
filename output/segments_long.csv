@@ -1,0 +1,157 @@
+segment,year,metric,label,value,source
+Packaging Materials,2025,sales,Sales,4478.0,AR2025 p53
+Packaging Materials,2024,sales,Sales,4502.0,AR2025 p53
+Packaging Materials,2025,adj_ebitda,Adjusted EBITDA,419.0,AR2025 p53
+Packaging Materials,2024,adj_ebitda,Adjusted EBITDA,472.0,AR2025 p53
+Packaging Materials,2025,adj_ebitda_margin,Adjusted EBITDA margin,0.094,AR2025 p53
+Packaging Materials,2024,adj_ebitda_margin,Adjusted EBITDA margin,0.105,AR2025 p53
+Packaging Materials,2025,adj_ebit,Adjusted EBIT,124.0,AR2025 p53
+Packaging Materials,2024,adj_ebit,Adjusted EBIT,172.0,AR2025 p53
+Packaging Materials,2025,adj_ebit_margin,Adjusted EBIT margin,0.027999999999999997,AR2025 p53
+Packaging Materials,2024,adj_ebit_margin,Adjusted EBIT margin,0.038,AR2025 p53
+Packaging Materials,2025,fv,Fair valuations and non-operational items (FV),5.0,AR2025 p53
+Packaging Materials,2024,fv,Fair valuations and non-operational items (FV),2.0,AR2025 p53
+Packaging Materials,2025,iac,Items affecting comparability (IAC),-46.0,AR2025 p53
+Packaging Materials,2024,iac,Items affecting comparability (IAC),-343.0,AR2025 p53
+Packaging Materials,2025,operating_result_ifrs,Operating result (IFRS),83.0,AR2025 p53
+Packaging Materials,2024,operating_result_ifrs,Operating result (IFRS),-169.0,AR2025 p53
+Packaging Materials,2025,adjusted_ebit_ltm,"Adjusted EBIT, LTM",124.0,AR2025 p53
+Packaging Materials,2024,adjusted_ebit_ltm,"Adjusted EBIT, LTM",172.0,AR2025 p53
+Packaging Materials,2025,operating_capital,"Operating capital, LTM",3575.0,AR2025 p53
+Packaging Materials,2024,operating_capital,"Operating capital, LTM",3490.0,AR2025 p53
+Packaging Materials,2025,adj_rooc,"Adjusted ROOC, LTM",0.035,AR2025 p53
+Packaging Materials,2024,adj_rooc,"Adjusted ROOC, LTM",0.049,AR2025 p53
+Packaging Materials,2025,cash_flow_operations,Cash flow from operations,381.0,AR2025 p53
+Packaging Materials,2024,cash_flow_operations,Cash flow from operations,462.0,AR2025 p53
+Packaging Materials,2025,cash_flow_after_investing,Cash flow after investing activities,-68.0,AR2025 p53
+Packaging Materials,2024,cash_flow_after_investing,Cash flow after investing activities,-323.0,AR2025 p53
+Packaging Materials,2025,board_deliveries_1000_tonnes,"Board deliveries, 1,000 tonnes",5009.0,AR2025 p53
+Packaging Materials,2024,board_deliveries_1000_tonnes,"Board deliveries, 1,000 tonnes",4920.0,AR2025 p53
+Packaging Solutions,2025,sales,Sales,1027.0,AR2025 p53
+Packaging Solutions,2024,sales,Sales,987.0,AR2025 p53
+Packaging Solutions,2025,adj_ebitda,Adjusted EBITDA,80.0,AR2025 p53
+Packaging Solutions,2024,adj_ebitda,Adjusted EBITDA,62.0,AR2025 p53
+Packaging Solutions,2025,adj_ebitda_margin,Adjusted EBITDA margin,0.078,AR2025 p53
+Packaging Solutions,2024,adj_ebitda_margin,Adjusted EBITDA margin,0.063,AR2025 p53
+Packaging Solutions,2025,adj_ebit,Adjusted EBIT,14.0,AR2025 p53
+Packaging Solutions,2024,adj_ebit,Adjusted EBIT,-15.0,AR2025 p53
+Packaging Solutions,2025,adj_ebit_margin,Adjusted EBIT margin,0.013999999999999999,AR2025 p53
+Packaging Solutions,2024,adj_ebit_margin,Adjusted EBIT margin,-0.015,AR2025 p53
+Packaging Solutions,2025,iac,Items affecting comparability (IAC),-12.0,AR2025 p53
+Packaging Solutions,2024,iac,Items affecting comparability (IAC),-379.0,AR2025 p53
+Packaging Solutions,2025,operating_result_ifrs,Operating result (IFRS),2.0,AR2025 p53
+Packaging Solutions,2024,operating_result_ifrs,Operating result (IFRS),-394.0,AR2025 p53
+Packaging Solutions,2025,adjusted_ebit_ltm,"Adjusted EBIT, LTM",14.0,AR2025 p53
+Packaging Solutions,2024,adjusted_ebit_ltm,"Adjusted EBIT, LTM",-15.0,AR2025 p53
+Packaging Solutions,2025,operating_capital,"Operating capital, LTM",602.0,AR2025 p53
+Packaging Solutions,2024,operating_capital,"Operating capital, LTM",934.0,AR2025 p53
+Packaging Solutions,2025,adj_rooc,"Adjusted ROOC, LTM",0.024,AR2025 p53
+Packaging Solutions,2024,adj_rooc,"Adjusted ROOC, LTM",-0.016,AR2025 p53
+Packaging Solutions,2025,cash_flow_operations,Cash flow from operations,73.0,AR2025 p53
+Packaging Solutions,2024,cash_flow_operations,Cash flow from operations,78.0,AR2025 p53
+Packaging Solutions,2025,cash_flow_after_investing,Cash flow after investing activities,20.0,AR2025 p53
+Packaging Solutions,2024,cash_flow_after_investing,Cash flow after investing activities,31.0,AR2025 p53
+Packaging Solutions,2025,corrugated_packaging_european_deliveries_million_m2,"Corrugated packaging European deliveries, million m2",1228.0,AR2025 p53
+Packaging Solutions,2024,corrugated_packaging_european_deliveries_million_m2,"Corrugated packaging European deliveries, million m2",1217.0,AR2025 p53
+Biomaterials,2025,sales,Sales,1458.0,AR2025 p53
+Biomaterials,2024,sales,Sales,1587.0,AR2025 p53
+Biomaterials,2025,adj_ebitda,Adjusted EBITDA,252.0,AR2025 p53
+Biomaterials,2024,adj_ebitda,Adjusted EBITDA,372.0,AR2025 p53
+Biomaterials,2025,adj_ebitda_margin,Adjusted EBITDA margin,0.17300000000000001,AR2025 p53
+Biomaterials,2024,adj_ebitda_margin,Adjusted EBITDA margin,0.23399999999999999,AR2025 p53
+Biomaterials,2025,adj_ebit,Adjusted EBIT,110.0,AR2025 p53
+Biomaterials,2024,adj_ebit,Adjusted EBIT,231.0,AR2025 p53
+Biomaterials,2025,adj_ebit_margin,Adjusted EBIT margin,0.075,AR2025 p53
+Biomaterials,2024,adj_ebit_margin,Adjusted EBIT margin,0.146,AR2025 p53
+Biomaterials,2025,fv,Fair valuations and non-operational items (FV),40.0,AR2025 p53
+Biomaterials,2024,fv,Fair valuations and non-operational items (FV),32.0,AR2025 p53
+Biomaterials,2025,iac,Items affecting comparability (IAC),-6.0,AR2025 p53
+Biomaterials,2024,iac,Items affecting comparability (IAC),-7.0,AR2025 p53
+Biomaterials,2025,operating_result_ifrs,Operating result (IFRS),144.0,AR2025 p53
+Biomaterials,2024,operating_result_ifrs,Operating result (IFRS),256.0,AR2025 p53
+Biomaterials,2025,adjusted_ebit_ltm,"Adjusted EBIT, LTM",110.0,AR2025 p53
+Biomaterials,2024,adjusted_ebit_ltm,"Adjusted EBIT, LTM",231.0,AR2025 p53
+Biomaterials,2025,operating_capital,"Operating Capital, LTM",2427.0,AR2025 p53
+Biomaterials,2024,operating_capital,"Operating Capital, LTM",2480.0,AR2025 p53
+Biomaterials,2025,adj_rooc,"Adjusted ROOC, LTM",0.045,AR2025 p53
+Biomaterials,2024,adj_rooc,"Adjusted ROOC, LTM",0.09300000000000001,AR2025 p53
+Biomaterials,2025,cash_flow_operations,Cash flow from operations,241.0,AR2025 p53
+Biomaterials,2024,cash_flow_operations,Cash flow from operations,507.0,AR2025 p53
+Biomaterials,2025,cash_flow_after_investing,Cash flow after investing activities,62.0,AR2025 p53
+Biomaterials,2024,cash_flow_after_investing,Cash flow after investing activities,332.0,AR2025 p53
+Biomaterials,2025,pulp_deliveries_1000_tonnes,"Pulp deliveries, 1,000 tonnes",2280.0,AR2025 p53
+Biomaterials,2024,pulp_deliveries_1000_tonnes,"Pulp deliveries, 1,000 tonnes",2207.0,AR2025 p53
+Wood Products,2025,sales,Sales,1817.0,AR2025 p54
+Wood Products,2024,sales,Sales,1522.0,AR2025 p54
+Wood Products,2025,adj_ebitda,Adjusted EBITDA,43.0,AR2025 p54
+Wood Products,2024,adj_ebitda,Adjusted EBITDA,27.0,AR2025 p54
+Wood Products,2025,adj_ebitda_margin,Adjusted EBITDA margin,0.023,AR2025 p54
+Wood Products,2024,adj_ebitda_margin,Adjusted EBITDA margin,0.018000000000000002,AR2025 p54
+Wood Products,2025,adj_ebit,Adjusted EBIT,-2.0,AR2025 p54
+Wood Products,2024,adj_ebit,Adjusted EBIT,-16.0,AR2025 p54
+Wood Products,2025,adj_ebit_margin,Adjusted EBIT margin,-0.001,AR2025 p54
+Wood Products,2024,adj_ebit_margin,Adjusted EBIT margin,-0.011000000000000001,AR2025 p54
+Wood Products,2025,iac,Items affecting comparability (IAC),-14.0,AR2025 p54
+Wood Products,2024,iac,Items affecting comparability (IAC),-57.0,AR2025 p54
+Wood Products,2025,operating_result_ifrs,Operating result (IFRS),-16.0,AR2025 p54
+Wood Products,2024,operating_result_ifrs,Operating result (IFRS),-73.0,AR2025 p54
+Wood Products,2025,adjusted_ebit_ltm,"Adjusted EBIT, LTM",-2.0,AR2025 p54
+Wood Products,2024,adjusted_ebit_ltm,"Adjusted EBIT, LTM",-16.0,AR2025 p54
+Wood Products,2025,operating_capital,"Operating capital, LTM",635.0,AR2025 p54
+Wood Products,2024,operating_capital,"Operating capital, LTM",609.0,AR2025 p54
+Wood Products,2025,adj_rooc,"Adjusted ROOC, LTM",-0.003,AR2025 p54
+Wood Products,2024,adj_rooc,"Adjusted ROOC, LTM",-0.027000000000000003,AR2025 p54
+Wood Products,2025,cash_flow_operations,Cash flow from operations,50.0,AR2025 p54
+Wood Products,2024,cash_flow_operations,Cash flow from operations,45.0,AR2025 p54
+Wood Products,2025,cash_flow_after_investing,Cash flow after investing activities,6.0,AR2025 p54
+Wood Products,2024,cash_flow_after_investing,Cash flow after investing activities,-4.0,AR2025 p54
+Wood Products,2025,wood_products_deliveries_1000_m3,"Wood products deliveries, 1,000 m3",4256.0,AR2025 p54
+Wood Products,2024,wood_products_deliveries_1000_m3,"Wood products deliveries, 1,000 m3",3718.0,AR2025 p54
+Forest,2025,sales,Sales,3212.0,AR2025 p54
+Forest,2024,sales,Sales,2827.0,AR2025 p54
+Forest,2025,adj_ebitda,Adjusted EBITDA,377.0,AR2025 p54
+Forest,2024,adj_ebitda,Adjusted EBITDA,364.0,AR2025 p54
+Forest,2025,adj_ebitda_margin,Adjusted EBITDA margin,0.11699999999999999,AR2025 p54
+Forest,2024,adj_ebitda_margin,Adjusted EBITDA margin,0.129,AR2025 p54
+Forest,2025,adj_ebit,Adjusted EBIT,317.0,AR2025 p54
+Forest,2024,adj_ebit,Adjusted EBIT,309.0,AR2025 p54
+Forest,2025,adj_ebit_margin,Adjusted EBIT margin,0.099,AR2025 p54
+Forest,2024,adj_ebit_margin,Adjusted EBIT margin,0.109,AR2025 p54
+Forest,2025,fv,Fair valuations and non-operational items (FV),399.0,AR2025 p54
+Forest,2024,fv,Fair valuations and non-operational items (FV),342.0,AR2025 p54
+Forest,2025,iac,Items affecting comparability (IAC),109.0,AR2025 p54
+Forest,2024,iac,Items affecting comparability (IAC),-5.0,AR2025 p54
+Forest,2025,operating_result_ifrs,Operating result (IFRS),826.0,AR2025 p54
+Forest,2024,operating_result_ifrs,Operating result (IFRS),646.0,AR2025 p54
+Forest,2025,adjusted_ebit_ltm,"Adjusted EBIT, LTM",317.0,AR2025 p54
+Forest,2024,adjusted_ebit_ltm,"Adjusted EBIT, LTM",309.0,AR2025 p54
+Forest,2025,operating_capital,"Operating capital, LTM",6004.0,AR2025 p54
+Forest,2024,operating_capital,"Operating capital, LTM",5989.0,AR2025 p54
+Forest,2025,adj_roce,"Adjusted ROCE, LTM",0.053,AR2025 p54
+Forest,2024,adj_roce,"Adjusted ROCE, LTM",0.052000000000000005,AR2025 p54
+Forest,2025,cash_flow_operations,Cash flow from operations,240.0,AR2025 p54
+Forest,2024,cash_flow_operations,Cash flow from operations,220.0,AR2025 p54
+Forest,2025,cash_flow_after_investing,Cash flow after investing activities,194.0,AR2025 p54
+Forest,2024,cash_flow_after_investing,Cash flow after investing activities,171.0,AR2025 p54
+Forest,2025,wood_deliveries_1000_m3,"Wood deliveries, 1,000 m3",35322.0,AR2025 p54
+Forest,2024,wood_deliveries_1000_m3,"Wood deliveries, 1,000 m3",33794.0,AR2025 p54
+Other,2025,sales,Sales,194.0,AR2025 p54
+Other,2024,sales,Sales,176.0,AR2025 p54
+Other,2025,adj_ebitda,Adjusted EBITDA,-28.0,AR2025 p54
+Other,2024,adj_ebitda,Adjusted EBITDA,-63.0,AR2025 p54
+Other,2025,adj_ebitda_margin,Adjusted EBITDA margin,-0.146,AR2025 p54
+Other,2024,adj_ebitda_margin,Adjusted EBITDA margin,-0.36,AR2025 p54
+Other,2025,adj_ebit,Adjusted EBIT,-37.0,AR2025 p54
+Other,2024,adj_ebit,Adjusted EBIT,-72.0,AR2025 p54
+Other,2025,adj_ebit_margin,Adjusted EBIT margin,-0.191,AR2025 p54
+Other,2024,adj_ebit_margin,Adjusted EBIT margin,-0.41,AR2025 p54
+Other,2025,fv,Fair valuations and non-operational items (FV),-11.0,AR2025 p54
+Other,2024,fv,Fair valuations and non-operational items (FV),-12.0,AR2025 p54
+Other,2025,iac,Items affecting comparability (IAC),-50.0,AR2025 p54
+Other,2024,iac,Items affecting comparability (IAC),-79.0,AR2025 p54
+Other,2025,operating_result_ifrs,Operating result (IFRS),-98.0,AR2025 p54
+Other,2024,operating_result_ifrs,Operating result (IFRS),-162.0,AR2025 p54
+Other,2025,cash_flow_operations,Cash flow from operations,-87.0,AR2025 p54
+Other,2024,cash_flow_operations,Cash flow from operations,-125.0,AR2025 p54
+Other,2025,cash_flow_after_investing,Cash flow after investing activities,-92.0,AR2025 p54
+Other,2024,cash_flow_after_investing,Cash flow after investing activities,-134.0,AR2025 p54

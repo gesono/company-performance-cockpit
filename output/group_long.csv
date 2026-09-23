@@ -1,0 +1,124 @@
+year,metric,label,value,source
+2025,sales,"Sales, EUR million",9326.0,AR2025 p51
+2024,sales,"Sales, EUR million",9049.0,AR2025 p51
+2023,sales,"Sales, EUR million",9396.0,AR2025 p51
+2025,adj_ebit,"Adjusted EBIT, EUR million",528.0,AR2025 p51
+2024,adj_ebit,"Adjusted EBIT, EUR million",598.0,AR2025 p51
+2023,adj_ebit,"Adjusted EBIT, EUR million",342.0,AR2025 p51
+2025,adj_ebit_margin,Adjusted EBIT margin,0.057,AR2025 p51
+2024,adj_ebit_margin,Adjusted EBIT margin,0.066,AR2025 p51
+2023,adj_ebit_margin,Adjusted EBIT margin,0.036000000000000004,AR2025 p51
+2025,operating_result_ifrs,"Operating result (IFRS), EUR million",942.0,AR2025 p51
+2024,operating_result_ifrs,"Operating result (IFRS), EUR million",93.0,AR2025 p51
+2023,operating_result_ifrs,"Operating result (IFRS), EUR million",-322.0,AR2025 p51
+2025,operating_result_margin_ifrs,Operating result margin (IFRS),0.10099999999999999,AR2025 p51
+2024,operating_result_margin_ifrs,Operating result margin (IFRS),0.01,AR2025 p51
+2023,operating_result_margin_ifrs,Operating result margin (IFRS),-0.034,AR2025 p51
+2025,return_on_equity_roe,Return on equity (ROE),0.067,AR2025 p51
+2024,return_on_equity_roe,Return on equity (ROE),-0.017,AR2025 p51
+2023,return_on_equity_roe,Return on equity (ROE),-0.038,AR2025 p51
+2025,adjusted_roce,Adjusted ROCE,0.038,AR2025 p51
+2024,adjusted_roce,Adjusted ROCE,0.043,AR2025 p51
+2023,adjusted_roce,Adjusted ROCE,0.024,AR2025 p51
+2025,adjusted_roce_excl_forest_segment,Adjusted ROCE excl. Forest segment,0.027000000000000003,AR2025 p51
+2024,adjusted_roce_excl_forest_segment,Adjusted ROCE excl. Forest segment,0.036000000000000004,AR2025 p51
+2023,adjusted_roce_excl_forest_segment,Adjusted ROCE excl. Forest segment,0.01,AR2025 p51
+2025,net_debt_equity_ratio,Net debt/equity ratio,0.29,AR2025 p51
+2024,net_debt_equity_ratio,Net debt/equity ratio,0.37,AR2025 p51
+2023,net_debt_equity_ratio,Net debt/equity ratio,0.29,AR2025 p51
+2025,eps_basic_eur,"EPS (basic), EUR",0.88,AR2025 p51
+2024,eps_basic_eur,"EPS (basic), EUR",-0.17,AR2025 p51
+2023,eps_basic_eur,"EPS (basic), EUR",-0.45,AR2025 p51
+2025,eps_excluding_fv_eur,"EPS excluding FV, EUR",0.41,AR2025 p51
+2024,eps_excluding_fv_eur,"EPS excluding FV, EUR",-0.56,AR2025 p51
+2023,eps_excluding_fv_eur,"EPS excluding FV, EUR",-0.73,AR2025 p51
+2025,dividend_per_share_eur,"Dividend per share, EUR",0.25,AR2025 p51
+2024,dividend_per_share_eur,"Dividend per share, EUR",0.25,AR2025 p51
+2023,dividend_per_share_eur,"Dividend per share, EUR",0.2,AR2025 p51
+2025,payout_ratio_excluding_fv,"Payout ratio, excluding FV",0.604,AR2025 p51
+2024,payout_ratio_excluding_fv,"Payout ratio, excluding FV",-0.446,AR2025 p51
+2023,payout_ratio_excluding_fv,"Payout ratio, excluding FV",-0.27399999999999997,AR2025 p51
+2025,payout_ratio_ifrs,Payout ratio (IFRS),0.284,AR2025 p51
+2024,payout_ratio_ifrs,Payout ratio (IFRS),-1.454,AR2025 p51
+2023,payout_ratio_ifrs,Payout ratio (IFRS),-0.442,AR2025 p51
+2025,dividend_yield_r_share,"Dividend yield, (R share)",0.023,AR2025 p51
+2024,dividend_yield_r_share,"Dividend yield, (R share)",0.026000000000000002,AR2025 p51
+2023,dividend_yield_r_share,"Dividend yield, (R share)",0.016,AR2025 p51
+2025,price_earnings_r_share_excluding_fv,"Price/earnings (R share), excluding FV",25.85,AR2025 p51
+2024,price_earnings_r_share_excluding_fv,"Price/earnings (R share), excluding FV",-17.33,AR2025 p51
+2023,price_earnings_r_share_excluding_fv,"Price/earnings (R share), excluding FV",-17.17,AR2025 p51
+2025,equity_per_share_eur,"Equity per share, EUR",13.69,AR2025 p51
+2024,equity_per_share_eur,"Equity per share, EUR",12.86,AR2025 p51
+2023,equity_per_share_eur,"Equity per share, EUR",13.93,AR2025 p51
+2025,market_capitalisation_31_dec_eur_million,"Market capitalisation 31 Dec, EUR million",8433.0,AR2025 p51
+2024,market_capitalisation_31_dec_eur_million,"Market capitalisation 31 Dec, EUR million",7657.0,AR2025 p51
+2023,market_capitalisation_31_dec_eur_million,"Market capitalisation 31 Dec, EUR million",9864.0,AR2025 p51
+2025,closing_price_31_dec_a_share_eur,"Closing price 31 Dec, A share, EUR",10.65,AR2025 p51
+2024,closing_price_31_dec_a_share_eur,"Closing price 31 Dec, A share, EUR",9.68,AR2025 p51
+2023,closing_price_31_dec_a_share_eur,"Closing price 31 Dec, A share, EUR",12.45,AR2025 p51
+2025,closing_price_31_dec_r_share_eur,"Closing price 31 Dec, R share, EUR",10.71,AR2025 p51
+2024,closing_price_31_dec_r_share_eur,"Closing price 31 Dec, R share, EUR",9.72,AR2025 p51
+2023,closing_price_31_dec_r_share_eur,"Closing price 31 Dec, R share, EUR",12.53,AR2025 p51
+2025,average_price_a_share_eur,"Average price, A share, EUR",9.83,AR2025 p51
+2024,average_price_a_share_eur,"Average price, A share, EUR",11.54,AR2025 p51
+2023,average_price_a_share_eur,"Average price, A share, EUR",12.82,AR2025 p51
+2025,average_price_r_share_eur,"Average price, R share, EUR",9.44,AR2025 p51
+2024,average_price_r_share_eur,"Average price, R share, EUR",11.53,AR2025 p51
+2023,average_price_r_share_eur,"Average price, R share, EUR",11.93,AR2025 p51
+2025,number_of_shares_31_dec_thousands,Number of shares 31 Dec (thousands),788620.0,AR2025 p51
+2024,number_of_shares_31_dec_thousands,Number of shares 31 Dec (thousands),788620.0,AR2025 p51
+2023,number_of_shares_31_dec_thousands,Number of shares 31 Dec (thousands),788620.0,AR2025 p51
+2025,trading_volume_a_shares_thousands,Trading volume A shares (thousands),1594.0,AR2025 p51
+2024,trading_volume_a_shares_thousands,Trading volume A shares (thousands),1199.0,AR2025 p51
+2023,trading_volume_a_shares_thousands,Trading volume A shares (thousands),968.0,AR2025 p51
+2025,of_total_number_of_a_shares,% of total number of A shares,0.009000000000000001,AR2025 p51
+2024,of_total_number_of_a_shares,% of total number of A shares,0.006999999999999999,AR2025 p51
+2023,of_total_number_of_a_shares,% of total number of A shares,0.005,AR2025 p51
+2025,trading_volume_r_shares_thousands,Trading volume R shares (thousands),476746.0,AR2025 p51
+2024,trading_volume_r_shares_thousands,Trading volume R shares (thousands),425082.0,AR2025 p51
+2023,trading_volume_r_shares_thousands,Trading volume R shares (thousands),476654.0,AR2025 p51
+2025,of_total_number_of_r_shares,% of total number of R shares,0.778,AR2025 p51
+2024,of_total_number_of_r_shares,% of total number of R shares,0.693,AR2025 p51
+2023,of_total_number_of_r_shares,% of total number of R shares,0.778,AR2025 p51
+2025,average_number_of_shares_basic_thousands,"Average number of shares, basic (thousands)",788620.0,AR2025 p51
+2024,average_number_of_shares_basic_thousands,"Average number of shares, basic (thousands)",788620.0,AR2025 p51
+2023,average_number_of_shares_basic_thousands,"Average number of shares, basic (thousands)",788620.0,AR2025 p51
+2025,average_number_of_shares_diluted_thousands,"Average number of shares, diluted (thousands)",789697.0,AR2025 p51
+2024,average_number_of_shares_diluted_thousands,"Average number of shares, diluted (thousands)",789772.0,AR2025 p51
+2023,average_number_of_shares_diluted_thousands,"Average number of shares, diluted (thousands)",789714.0,AR2025 p51
+2025,adj_ebit,Adjusted EBIT,528.0,AR2025 p66
+2024,adj_ebit,Adjusted EBIT,598.0,AR2025 p66
+2023,adj_ebit,Adjusted EBIT,342.0,AR2025 p66
+2025,capital_employed_average,"Capital employed, average",13864.0,AR2025 p66
+2024,capital_employed_average,"Capital employed, average",14060.0,AR2025 p66
+2023,capital_employed_average,"Capital employed, average",14230.0,AR2025 p66
+2025,adjusted_roce,Adjusted ROCE,0.038,AR2025 p66
+2024,adjusted_roce,Adjusted ROCE,0.043,AR2025 p66
+2023,adjusted_roce,Adjusted ROCE,0.024,AR2025 p66
+2025,adjusted_ebit_excl_forest_segment,Adjusted EBIT excl. Forest segment,210.0,AR2025 p66
+2024,adjusted_ebit_excl_forest_segment,Adjusted EBIT excl. Forest segment,290.0,AR2025 p66
+2023,adjusted_ebit_excl_forest_segment,Adjusted EBIT excl. Forest segment,89.0,AR2025 p66
+2025,capital_employed_excl_forest_segment_average,"Capital employed excl. Forest segment, average",7860.0,AR2025 p66
+2024,capital_employed_excl_forest_segment_average,"Capital employed excl. Forest segment, average",8071.0,AR2025 p66
+2023,capital_employed_excl_forest_segment_average,"Capital employed excl. Forest segment, average",8490.0,AR2025 p66
+2025,adjusted_roce_excl_forest_segment,Adjusted ROCE excl. Forest segment,0.027000000000000003,AR2025 p66
+2024,adjusted_roce_excl_forest_segment,Adjusted ROCE excl. Forest segment,0.036000000000000004,AR2025 p66
+2023,adjusted_roce_excl_forest_segment,Adjusted ROCE excl. Forest segment,0.01,AR2025 p66
+2025,net_result_for_the_period,Net result for the period,686.0,AR2025 p66
+2024,net_result_for_the_period,Net result for the period,-183.0,AR2025 p66
+2023,net_result_for_the_period,Net result for the period,-431.0,AR2025 p66
+2025,total_equity_average,"Total equity, average",10259.0,AR2025 p66
+2024,total_equity_average,"Total equity, average",10576.0,AR2025 p66
+2023,total_equity_average,"Total equity, average",11413.0,AR2025 p66
+2025,return_on_equity_roe,Return on equity (ROE),0.067,AR2025 p66
+2024,return_on_equity_roe,Return on equity (ROE),-0.017,AR2025 p66
+2023,return_on_equity_roe,Return on equity (ROE),-0.038,AR2025 p66
+2025,net_debt,Net debt,3181.0,AR2025 p66
+2024,net_debt,Net debt,3707.0,AR2025 p66
+2023,net_debt,Net debt,3167.0,AR2025 p66
+2025,adj_ebitda,Adjusted EBITDA,1144.0,AR2025 p66
+2024,adj_ebitda,Adjusted EBITDA,1223.0,AR2025 p66
+2023,adj_ebitda,Adjusted EBITDA,989.0,AR2025 p66
+2025,net_debt_to_ebitda,Net debt to adjusted EBITDA ratio,2.8,AR2025 p66
+2024,net_debt_to_ebitda,Net debt to adjusted EBITDA ratio,3.0,AR2025 p66
+2023,net_debt_to_ebitda,Net debt to adjusted EBITDA ratio,3.2,AR2025 p66

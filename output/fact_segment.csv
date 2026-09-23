@@ -1,0 +1,15 @@
+segment,year,sales,adj_ebitda,adj_ebit,operating_capital,source
+Packaging Materials,2025,4478.0,419.0,124.0,3575.0,AR2025 p53
+Packaging Materials,2024,4502.0,472.0,172.0,3490.0,AR2025 p53
+Packaging Solutions,2025,1027.0,80.0,14.0,602.0,AR2025 p53
+Packaging Solutions,2024,987.0,62.0,-15.0,934.0,AR2025 p53
+Biomaterials,2025,1458.0,252.0,110.0,2427.0,AR2025 p53
+Biomaterials,2024,1587.0,372.0,231.0,2480.0,AR2025 p53
+Wood Products,2025,1817.0,43.0,-2.0,635.0,AR2025 p54
+Wood Products,2024,1522.0,27.0,-16.0,609.0,AR2025 p54
+Forest,2025,3212.0,377.0,317.0,6004.0,AR2025 p54
+Forest,2024,2827.0,364.0,309.0,5989.0,AR2025 p54
+Other,2025,194.0,-28.0,-37.0,,AR2025 p54
+Other,2024,176.0,-63.0,-72.0,,AR2025 p54
+Eliminations,2025,-2860.0,1.0,2.0,,Balancing figure (calculated)
+Eliminations,2024,-2552.0,-11.0,-11.0,,Balancing figure (calculated)
