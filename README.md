@@ -29,9 +29,9 @@ Nothing is saved unless the numbers tie.
 
 Three charts, generated from the validated output by `make_charts.py`:
 
-![Margin gap by segment](output/charts/chart1_margin_gap.png)
-![Adjusted EBIT bridge 2024 to 2025](output/charts/chart2_ebit_bridge.png)
-![Price and volume sensitivity](output/charts/chart3_sensitivity.png)
+![Margin gap by segment](/charts/chart1_margin_gap.png)
+![Adjusted EBIT bridge 2024 to 2025](/charts/chart2_ebit_bridge.png)
+![Price and volume sensitivity](/charts/chart3_sensitivity.png)
 
 **In short:** no segment reached Stora Enso's 10% adjusted EBIT margin target in
 2025. Group profit fell EUR 70m even though four of six segments improved, as a
