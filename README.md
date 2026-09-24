@@ -25,11 +25,29 @@ Validation
 
 Nothing is saved unless the numbers tie.
 
+## What the data shows
+
+Three charts, generated from the validated output by `make_charts.py`:
+
+![Margin gap by segment](output/charts/chart1_margin_gap.png)
+![Adjusted EBIT bridge 2024 to 2025](output/charts/chart2_ebit_bridge.png)
+![Price and volume sensitivity](output/charts/chart3_sensitivity.png)
+
+**In short:** no segment reached Stora Enso's 10% adjusted EBIT margin target in
+2025. Group profit fell EUR 70m even though four of six segments improved, as a
+EUR 121m drop in Biomaterials outweighed the gains. For Packaging Solutions,
+price moves profit about three times as hard as volume, but the unit would still
+need a ~10% price rise to reach target — which is why cost, mix and plant-level
+performance matter as much as pricing.
+
+Full write-up with context for each chart: [docs/findings.md](docs/findings.md).
+
 ## Run it
 
 ```bash
 pip install -r requirements.txt
 python extract_annual_report.py --pdf STORAENSO_Annual_Report_2025.pdf
+python make_charts.py
 ```
 
 The PDF is not included here (it is large and copyrighted). Download it from
