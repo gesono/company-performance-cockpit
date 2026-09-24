@@ -13,7 +13,7 @@ what performance analysis inside the business areas exists to support.
 
 ## 1. Where the margin gap sits
 
-![Margin gap by segment](../output/charts/chart1_margin_gap.png)
+![Margin gap by segment](../charts/chart1_margin_gap.png)
 
 **Context.** Stora Enso runs seven P&L-responsible business areas, introduced in
 July 2025 to sharpen accountability. Each now has to justify its returns
@@ -31,7 +31,7 @@ For Packaging Solutions the gap is roughly EUR 89m of EBIT on 2025 sales.
 
 ## 2. What moved group profit in 2025
 
-![Adjusted EBIT bridge 2024 to 2025](../output/charts/chart2_ebit_bridge.png)
+![Adjusted EBIT bridge 2024 to 2025](../charts/chart2_ebit_bridge.png)
 
 **Context.** Group adjusted EBIT fell from EUR 598m to EUR 528m. The headline
 decline hides movement in opposite directions across the segments.
@@ -49,7 +49,7 @@ market did, because the two call for different responses.
 
 ## 3. What would actually close the gap
 
-![Price and volume sensitivity](../output/charts/chart3_sensitivity.png)
+![Price and volume sensitivity](../charts/chart3_sensitivity.png)
 
 **Context.** The report publishes the operating profit impact of a ±10% change
 in price or volume for each segment (p. 60, Table 1). For Packaging Solutions
