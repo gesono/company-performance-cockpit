@@ -181,7 +181,7 @@ def chart_sensitivity(seg, sens, out):
 def main():
     parser = argparse.ArgumentParser(description="Build the chart pack from extracted data")
     parser.add_argument("--data", default="output", help="folder holding the extracted CSV files")
-    parser.add_argument("--out", default="output/charts", help="folder for the PNG files")
+    parser.add_argument("--out", default="charts", help="folder for the PNG files")
     args = parser.parse_args()
 
     data, out = Path(args.data), Path(args.out)
