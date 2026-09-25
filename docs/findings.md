@@ -7,7 +7,7 @@ of `extract_annual_report.py` and charted by `make_charts.py`.
 
 From 2026 Stora Enso is working to new financial targets: an adjusted EBIT
 margin above 10%, revenue growth above 4%, and net debt below 1x adjusted
-EBITDA (Annual Report 2025, p. 64). In 2025 the group delivered a 5.7% margin
+EBITDA (Annual Report 2025, p. 12). In 2025 the group delivered a 5.7% margin
 and 2.8x leverage. Closing that gap is the central management task, and it is
 what performance analysis inside the business areas exists to support.
 
